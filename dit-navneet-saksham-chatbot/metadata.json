@@ -1,0 +1,5 @@
+{
+  "name": "Dit Navneet Chatbot",
+  "description": "A simple and elegant chatbot powered by the Gemini API, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
